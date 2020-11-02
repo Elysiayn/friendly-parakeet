@@ -13,8 +13,11 @@ In order to generate a secure password, please do the following:
 ## Deployed Production
 [Password Generator](https://elysiayn.github.io/password-generator/)
 
-![](images/screenshot.png)
+![Password Generator](images/screenshot.png)
 
 ## Changes made to JS file include:
 * Created JS functions to compile selections made into a random variable generator. 
 * Created JS functions to specify variable selections. 
+
+### Contirbutions
+Starter code provided and alterations to JS file made by Wendy Lemus.
